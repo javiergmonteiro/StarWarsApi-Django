@@ -39,6 +39,6 @@ To run the unit tests type:
 
 And that's it!!
 
-For the documentation on how to use the endpoints refer to the following link:
+## For the documentation on how to use the endpoints refer to the following link:
 
 https://documenter.getpostman.com/view/10760574/TVCZaWYP
